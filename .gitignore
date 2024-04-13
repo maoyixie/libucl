@@ -33,3 +33,6 @@ python/build
 
 # Default CMake build directory
 /build/
+
+#add
+.vscode/
